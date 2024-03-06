@@ -1,14 +1,14 @@
-package org.example.javalab.Controller;
+package org.example.javalab.dto;
 
 
 import java.util.List;
 
-public class DTO {
+public class ListDTO {
     List<String> numList;
     List<String> emailList;
 
 
-    public DTO(List<String> numList, List<String> emailList) {
+    public ListDTO(List<String> numList, List<String> emailList) {
         this.numList = numList;
         this.emailList = emailList;
     }

@@ -1,4 +1,4 @@
-package org.example.javalab.Dao;
+package org.example.javalab.entity;
 
 
 import jakarta.persistence.*;
